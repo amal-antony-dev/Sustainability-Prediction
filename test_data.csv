@@ -1,0 +1,401 @@
+root_category,main_category,condition,recycled_content,recyclability,carbon_footprint,energy_efficiency,durability,repairability_score,ethical_sourcing,cruelty_free,plastic_free,natural,destructable,hazardous,materials_str,sustainability_score
+Education,Stationery,Used - Fair,65.30028179535076,True,2.0512765373069586,13.126888537924174,,3.0445784423532074,False,False,False,False,True,False,plastic,44.57
+Sports,Outdoor,New,24.90724465116707,True,,13.893043081855367,20.0,9.476116891173891,True,False,True,True,False,True,bamboo,49.97
+Beauty,Hair Care,New,5.964360409666147,True,,,7.0,3.041491541391724,False,True,False,False,True,False,"bamboo,cork,silk",28.64
+Health,Fitness,New,52.36331554346897,False,,85.04073141938868,,,False,False,False,True,True,True,"cotton,metal",0.0
+Electronics,Appliances,New,79.9505657451408,False,47.44606964359628,29.54594642767065,11.0,,False,False,False,False,False,True,cotton,0.0
+Health,Fitness,Used - Good,93.24058000691176,True,26.71148533926869,,12.0,3.96120581811072,False,True,True,False,True,True,"linen,hemp,wool",41.29
+Health,Skin Care,For Parts or Not Working,,True,13.314450465337837,79.50667177605493,14.0,,False,False,False,True,True,True,"paper,cork",33.0
+Pet Supplies,Pet Toys,New,23.771088616877712,True,3.4130893268349074,63.2079858801501,,7.857377783658804,False,True,True,True,True,True,glass,21.23
+Toys,Gaming,New,16.498384936846357,True,18.999128561127264,98.2264042905574,13.0,5.432112906459531,False,False,False,True,False,False,paper,13.43
+Health,Skin Care,New,50.19991560733824,True,,23.678626504394423,16.0,5.119689418096804,True,True,False,False,True,True,wood,43.14
+Electronics,Gaming,Used - Fair,24.797812715698495,False,,,16.0,1.010423184081476,True,True,True,False,False,True,"sisal,metal,hemp,wool",24.49
+Tools,Hand Tools,New,50.87103008806031,False,,41.144022458362535,,9.0451968527219,False,False,False,False,True,False,"linen,coir,cork",13.13
+Fashion,Accessories,Used - Fair,82.61670470261363,True,39.3828487975163,15.37043856926801,14.0,,False,True,False,True,True,True,"plastic,bamboo,leather",33.26
+Toys,Pet Toys,Used - Like New,50.01161078264352,False,17.621426724985604,29.54327318378184,6.0,3.358700546409757,True,False,False,False,True,False,"coir,wool,plastic,stone",14.36
+Education,Stationery,Used - Good,5.606903589493884,False,49.92889412006763,13.01858914080255,,,True,True,True,False,True,False,"cotton,coir,stone",30.0
+Electronics,Mobiles,Used - Good,49.76441109404074,False,28.39527111422689,,20.0,0.745443231224211,True,False,False,False,True,False,wool,20.75
+Electronics,Mobiles,New,90.28146389819712,False,41.49808787538992,,12.0,4.773139404715186,False,True,False,False,True,True,jute,2.77
+Pet Supplies,Pet Toys,Used - Fair,44.62436381144459,True,30.68296760722076,18.23679552110218,11.0,,True,False,True,False,True,True,"hemp,silk,metal,cork",39.46
+Automotive,Tools,For Parts or Not Working,0.3425058419797011,False,,87.9669763316068,15.0,7.279279690852275,False,False,False,False,True,False,"paper,coir,stone",27.28
+Electronics,Appliances,Used - Good,9.947826548235572,True,26.16717882052285,,17.0,9.758410897082324,False,False,False,False,False,True,wood,28.75
+Toys,Pet Toys,Used - Fair,,True,4.817769603848012,19.73963703166608,3.0,5.74245940538246,False,False,True,True,False,False,"ceramic,silk",53.74
+Sports,Fitness,Used - Good,32.22283923834115,True,,,10.0,1.974541456486777,False,True,True,True,False,True,"cork,hemp",45.2
+Furniture,Office,Used - Good,22.826899166006772,True,,67.1529100865248,6.0,,True,False,False,False,True,True,"paper,plastic",11.28
+Electronics,Laptops,Used - Good,78.15663194584059,False,7.332516062391967,88.14540857659689,15.0,4.959071919089726,False,True,True,False,False,True,"sisal,metal",19.96
+Health,Skin Care,Used - Like New,9.81919595911628,False,40.45979285769593,58.7296563097901,,5.772274598426785,True,False,False,True,False,True,linen,0.77
+Education,Books,Used - Fair,97.74138375388914,False,23.897863868409463,89.92477077180911,1.0,,True,False,True,False,False,False,stone,16.0
+Beauty,Skin Care,New,23.33366848577044,True,,24.249358489025987,14.0,,False,True,False,False,True,True,"linen,wool,sisal",20.33
+Education,Stationery,Used - Fair,22.039275878769903,False,16.95833981884647,99.69960609871546,10.0,1.756716299386153,False,False,False,False,True,True,"wood,leather,ceramic,rubber",6.76
+Electronics,Mobiles,For Parts or Not Working,95.29679158755302,False,,38.71459630283834,,9.219850502260046,False,True,False,False,True,False,"leather,hemp",39.75
+Automotive,Tools,Used - Fair,,True,47.26501390566201,,9.0,9.832071320334173,True,False,False,False,True,True,"leather,linen,jute",18.83
+Household,Kitchen,Used - Fair,74.26367858881075,False,16.48672601435331,27.7129625625707,18.0,,False,False,True,False,False,True,linen,15.0
+Sports,Outdoor,Used - Like New,62.3339163537429,False,40.61517884018531,,7.0,2.310599427783482,True,True,False,True,False,True,"leather,hemp",9.31
+Tools,Hand Tools,Used - Good,84.92307432003328,False,,94.66868599916188,6.0,,True,False,False,True,True,False,"plastic,silk",21.0
+Household,Bathroom,For Parts or Not Working,89.37038435951013,False,21.322143991641205,26.41168923832587,14.0,3.319690889379173,False,False,True,False,True,True,"linen,sisal",23.32
+Pet Supplies,Pet Food,For Parts or Not Working,,True,42.49354735096289,54.03534169478718,20.0,2.957310728431155,False,False,False,True,False,True,jute,17.96
+Toys,Gaming,New,38.40968053404665,True,,,,3.806172770348759,True,False,True,True,True,False,"rubber,coir",25.65
+Fashion,Clothing,Used - Good,,False,42.95885291723823,42.27125754301414,12.0,7.887166223923701,False,True,False,True,True,True,"plastic,cotton,paper,leather",27.89
+Beauty,Hair Care,Used - Fair,75.5460749846503,False,5.667136061589112,40.43093403689715,20.0,6.777076555298164,True,True,False,True,True,True,"wool,jute",35.33
+Sports,Outdoor,For Parts or Not Working,96.16653341787364,True,42.6969665127392,83.88849499463342,16.0,1.4184864764673322,True,False,False,False,False,False,"jute,plastic",29.04
+Pet Supplies,Pet Food,Used - Like New,30.086848173034564,True,38.508149363972166,62.5129363214051,3.0,6.8953637232857,False,True,True,False,True,False,"coir,glass",14.9
+Fashion,Clothing,Used - Fair,78.5214616873058,False,28.74593927495912,71.90139457314632,10.0,1.5789816392354672,False,False,False,True,False,True,"wool,wood,bamboo,hemp,metal",11.58
+Beauty,Skin Care,For Parts or Not Working,92.28212399439192,True,26.79290782643608,22.841383574926944,20.0,5.546645915590874,False,False,False,False,False,False,"silk,linen,paper",47.77
+Health,Hair Care,For Parts or Not Working,95.88648132336426,False,22.90005900444924,53.07917792416481,18.0,,False,True,False,False,False,True,"cork,bamboo,linen,sisal",15.0
+Furniture,Office,New,24.61532055550577,True,,78.12820223998523,17.0,,True,False,False,True,False,True,"stone,cotton,bamboo,cork,hemp",18.46
+Fashion,Shoes,Used - Good,25.2427874923402,True,,10.176197929495435,18.0,0.9634200831754692,True,True,True,False,False,True,glass,43.49
+Beauty,Hair Care,New,,False,47.395004825613725,,2.0,6.206361424625019,True,True,False,False,False,True,"bamboo,rubber",1.21
+Fashion,Clothing,Used - Fair,27.712305302931878,True,46.96807650511288,67.33262501662463,6.0,1.4218170369559968,False,False,False,False,True,True,stone,5.0
+Electronics,Appliances,Used - Like New,63.780865176818914,True,,68.647222823551,1.0,,True,True,False,True,False,False,"hemp,metal,glass,stone,plastic",20.38
+Tools,Hand Tools,For Parts or Not Working,23.890355467808043,True,8.48354568569336,,,9.000994834486713,True,True,False,True,False,True,paper,41.39
+Household,Kitchen,New,,False,8.70048435407348,21.051413712071124,12.0,3.2399124653204026,True,True,False,True,True,False,"jute,wool,stone",27.24
+Health,Skin Care,Used - Fair,54.62213107071309,True,16.40072436160318,43.89479373498468,16.0,,False,False,True,False,True,True,leather,23.46
+Sports,Outdoor,Used - Like New,22.27041839953715,False,22.017232383910123,48.96696719816942,11.0,,False,True,False,True,False,True,"bamboo,cork",10.0
+Health,Hair Care,Used - Fair,81.33847695480252,False,17.22094452010255,93.86034677781478,20.0,7.017196664122319,False,False,True,False,True,True,"stone,hemp,leather",17.02
+Electronics,Mobiles,Used - Good,85.44784097622855,True,7.804706249584067,91.58852172736454,16.0,5.150640389273471,False,False,False,True,True,True,cotton,41.7
+Sports,Outdoor,Used - Like New,0.0178379789569471,True,,,13.0,4.84872681935409,True,True,True,False,False,False,"stone,hemp,jute",44.85
+Pet Supplies,Pet Toys,Used - Fair,41.52856143177892,False,19.6553578924038,,16.0,2.870200488799393,True,True,False,False,True,False,stone,27.87
+Automotive,Tools,Used - Fair,49.03248849192374,True,22.876288575312586,69.08336246136163,14.0,,False,True,False,False,False,False,"paper,rubber",20.9
+Fashion,Shoes,Used - Like New,17.71590078555144,True,48.34862111210107,,12.0,0.1850656700781738,False,True,True,True,True,True,"glass,coir",11.96
+Pet Supplies,Pet Toys,New,70.2058428317425,False,8.865260825381894,11.355577406424468,14.0,5.859724952545204,True,False,True,True,True,True,bamboo,36.88
+Automotive,Tools,Used - Like New,63.68496293773552,False,,,8.0,2.605066023453689,True,False,False,False,False,False,"jute,fabric",7.97
+Education,Books,New,13.529140342230017,False,46.5583814258863,,13.0,5.182225255717347,True,True,False,True,False,False,"rubber,cork",23.18
+Furniture,Kitchen,Used - Like New,12.233396108511286,False,,49.03019192851526,11.0,4.94093142127468,False,False,False,False,False,True,"bamboo,leather",7.16
+Fashion,Accessories,Used - Fair,79.439264160614,False,48.265745279329344,90.58724002879023,2.0,2.9825631088933333,True,True,False,False,False,True,"cork,silk",9.98
+Pet Supplies,Pet Toys,Used - Fair,39.02661888748546,True,1.2173213833391707,45.88941743439607,15.0,8.632329780049435,True,False,True,True,False,False,silk,67.53
+Education,Books,New,90.69550304209707,True,,74.84955218872778,13.0,4.352382252713097,True,False,False,False,True,True,linen,14.42
+Sports,Outdoor,For Parts or Not Working,36.939565298777865,False,41.201543593855504,62.3918390419273,3.0,6.095082731246291,True,True,False,False,True,False,"ceramic,metal,leather,plastic",29.1
+Household,Kitchen,Used - Like New,19.33949295091253,False,,46.55172643654009,2.0,,True,True,True,True,True,False,"hemp,fabric,rubber",14.93
+Furniture,Office,Used - Good,,True,3.760333702261097,10.123265425184638,11.0,7.559044832575365,False,False,False,False,True,True,plastic,42.56
+Sports,Outdoor,Used - Fair,28.23218913697608,True,31.34652816564785,77.6384793832724,2.0,,True,False,False,False,False,False,"fabric,cotton",17.82
+Beauty,Hair Care,For Parts or Not Working,77.73562742218203,True,,61.92560938461114,17.0,3.406900646371853,True,False,False,False,False,False,"leather,metal",39.18
+Automotive,Tools,Used - Like New,91.12901363137998,True,47.013797022165534,28.04173041772293,8.0,5.333804822693827,False,False,False,True,False,False,coir,27.45
+Sports,Fitness,For Parts or Not Working,58.14408128865784,False,,,2.0,0.4590629371769228,False,False,True,False,False,True,"coir,wool,bamboo",14.27
+Fashion,Shoes,Used - Good,,False,,,8.0,,True,True,True,False,False,True,linen,9.0
+Health,Skin Care,New,88.66817849316101,False,10.458036714681322,11.86781539379911,9.0,7.353124485243921,True,True,True,False,True,True,"paper,hemp,wood",39.22
+Education,Stationery,New,83.61439905675438,False,3.4730095479593794,,15.0,,False,False,True,True,False,False,glass,22.36
+Sports,Outdoor,Used - Fair,61.639232160051286,True,39.33766034619648,,8.0,0.761402894697254,False,False,False,True,True,False,"leather,cotton,linen",34.93
+Household,Kitchen,Used - Like New,63.34742749386938,True,,12.645461310678009,10.0,5.166181962655292,True,False,False,False,False,True,"bamboo,hemp",41.5
+Health,Fitness,New,55.18520621513992,True,,52.06064723515438,,1.71267931117968,False,True,True,False,True,False,"paper,silk,hemp,cotton",23.23
+Fashion,Shoes,New,,True,8.208247719930203,15.368486287497554,12.0,0.4007514507392151,True,False,False,False,False,False,"ceramic,plastic",33.4
+Sports,Fitness,New,64.81892421127003,True,4.636443541668792,51.6145341996469,9.0,4.698747726593191,True,True,False,True,False,False,"metal,plastic,linen,rubber,silk",41.18
+Electronics,Laptops,Used - Like New,29.020870441007084,True,,67.61640213904889,15.0,0.658719129668951,False,True,False,False,True,False,"jute,wood",26.56
+Fashion,Accessories,Used - Like New,98.3418413390744,False,3.757312109637104,88.76939671286125,,,False,True,True,True,False,False,"linen,ceramic,wool,plastic",13.83
+Pet Supplies,Pet Food,Used - Good,64.52831105604353,True,9.106937754603026,50.783192583314346,5.0,7.937326000753938,True,True,False,False,True,False,"paper,coir,wool",42.39
+Fashion,Clothing,New,72.55025428537051,False,2.229869853017566,,4.0,8.383004392769521,True,True,True,True,False,True,"wood,wool,stone,ceramic",33.64
+Beauty,Hair Care,For Parts or Not Working,,False,37.5443942243165,77.41646095168022,18.0,5.5645933358687705,True,False,True,False,False,True,"coir,hemp,plastic",25.56
+Sports,Outdoor,For Parts or Not Working,81.060699244862,True,5.705550763579958,26.00144525486024,9.0,2.615452875795895,False,False,True,True,True,True,wool,49.72
+Health,Fitness,Used - Fair,53.67708268335375,True,4.477272467112382,99.05653333331504,15.0,,True,False,False,False,True,False,"silk,metal",38.37
+Fashion,Clothing,New,86.10965379479694,True,27.052927104863866,89.77273809384107,18.0,1.919649100838151,True,False,False,False,True,True,"linen,glass",4.53
+Furniture,Office,For Parts or Not Working,,False,25.62598170239383,,,,True,True,True,False,True,False,"fabric,cotton,bamboo",25.0
+Education,Laptops,Used - Like New,90.37856743623928,False,,,12.0,,False,False,False,True,False,True,"bamboo,leather,metal,silk",10.04
+Pet Supplies,Pet Food,Used - Fair,22.148108655726794,False,23.461022533725345,58.625152303071694,2.0,0.3648513421798438,False,True,False,True,False,False,bamboo,17.36
+Electronics,Laptops,Used - Fair,38.26153788574229,True,22.85982777368657,13.421560680706644,5.0,2.2071547849525186,False,True,False,True,True,False,"linen,rubber",39.03
+Household,Bedroom,Used - Good,19.810345123700863,False,47.04187615500925,,7.0,1.480061885465055,False,True,False,True,True,False,coir,23.48
+Household,Kitchen,Used - Like New,88.24255476753319,True,25.44371132600691,22.197539504997124,15.0,1.0346496260151394,False,True,False,False,False,True,linen,22.86
+Education,Laptops,Used - Fair,74.44038546145887,False,9.694819912256746,,3.0,1.249967077816725,True,True,False,False,False,True,"coir,fabric,leather",12.69
+Tools,Hand Tools,Used - Good,,True,19.80613613834404,65.00690519658559,11.0,,False,True,False,True,True,False,"cotton,bamboo",31.0
+Electronics,Mobiles,New,4.30486854023906,True,1.176680532509247,,6.0,7.933280434254088,True,False,False,False,False,False,"cork,linen",42.36
+Furniture,Office,Used - Good,50.03431797199076,False,,,11.0,2.5590959111874634,False,True,False,False,True,False,"silk,wool",18.56
+Electronics,Appliances,New,17.93644028822773,True,,94.53571832633678,20.0,5.5617264990561,True,True,True,True,True,True,"wool,sisal,cork,rubber",23.36
+Household,Kitchen,For Parts or Not Working,34.63711371661237,True,12.19151201443348,,4.0,1.2445322352833177,True,True,False,False,False,True,"cotton,plastic,hemp,jute",33.71
+Education,Laptops,Used - Fair,94.02683936961829,False,25.912989501309784,17.8781804802437,10.0,,False,True,True,False,True,False,"coir,metal,linen",35.0
+Fashion,Clothing,For Parts or Not Working,49.08424255061562,True,,85.66421092991337,11.0,9.847598891895036,True,True,True,False,True,False,"jute,cotton,hemp",62.76
+Fashion,Accessories,New,60.07921278388287,True,,96.05661800653998,19.0,6.707096536570401,True,True,False,True,False,False,glass,33.72
+Household,Bathroom,Used - Like New,,True,0.96644275901572,,19.0,8.656630699791737,False,False,True,True,True,True,"jute,linen",33.66
+Fashion,Clothing,Used - Good,49.98778177075428,True,48.89425685756613,,9.0,7.200276466275179,False,True,False,True,False,False,stone,36.2
+Beauty,Hair Care,Used - Like New,16.12397522450658,True,,,18.0,7.8095396273519055,True,True,False,False,True,False,"fabric,sisal,plastic",34.42
+Household,Bedroom,Used - Fair,54.71704263734362,False,35.29472178223646,44.289429767260266,,5.939977332685301,False,True,True,True,False,False,leather,30.94
+Tools,Hand Tools,New,66.99993183982565,True,,,,,True,True,False,False,False,True,"metal,wool,ceramic",9.7
+Fashion,Clothing,For Parts or Not Working,71.97905858936308,True,36.88938129589529,,20.0,9.525623390365874,False,True,True,False,False,False,"cotton,ceramic",56.72
+Health,Skin Care,Used - Fair,53.49991527830631,False,,41.92358761654297,8.0,5.995516548927751,False,False,True,True,True,True,"paper,stone",20.35
+Furniture,Office,Used - Like New,85.61696115339386,True,47.3317307076113,,13.0,,True,False,True,False,False,False,"cotton,sisal",33.56
+Automotive,Tools,For Parts or Not Working,41.008077566049,True,,71.2467691272369,9.0,,True,True,False,False,True,True,sisal,26.1
+Fashion,Shoes,Used - Like New,60.70202390242836,False,33.51931443541358,28.1172015390387,5.0,7.4052700410173555,True,True,False,True,False,False,jute,27.41
+Tools,Power Tools,Used - Good,,False,,43.8181374226427,16.0,3.6271436186622674,False,False,True,True,False,False,"cotton,wool,paper",34.63
+Furniture,Bedroom,Used - Good,31.43822678741186,True,0.7108043511597606,,13.0,6.131401913458258,False,True,True,False,True,True,hemp,54.28
+Health,Fitness,Used - Like New,14.063504032085715,False,,72.20343300544101,16.0,,True,False,True,True,False,True,silk,10.0
+Automotive,Car Accessories,Used - Good,,False,2.822191679346351,97.3184571729642,5.0,,True,True,False,False,False,False,"hemp,silk",24.0
+Electronics,Appliances,Used - Like New,23.15348563932971,True,,84.66326304954842,11.0,,True,True,False,True,True,True,"linen,wool",15.32
+Sports,Fitness,Used - Good,,False,17.436327110187193,62.52582517774293,1.0,6.315129350541604,False,False,True,True,False,True,"cotton,rubber,ceramic",12.32
+Education,Books,Used - Fair,77.97167508872505,True,37.53805533430377,62.78721261775298,15.0,,True,False,False,True,False,True,"cork,wood,bamboo,metal",25.8
+Beauty,Hair Care,Used - Fair,,True,16.131599625009912,28.161710127687503,15.0,,False,True,True,True,True,False,"metal,glass",38.0
+Household,Bathroom,For Parts or Not Working,29.794524764850905,False,,26.267471228586324,11.0,,False,False,False,True,False,True,"cork,silk,jute,linen",23.98
+Electronics,Laptops,Used - Fair,58.12811564450024,False,,91.09502991288456,9.0,5.419792598674963,False,True,True,False,True,False,"ceramic,cotton",29.42
+Fashion,Clothing,For Parts or Not Working,29.99724653779009,True,36.396169543776615,77.21518384425029,15.0,,False,False,False,False,False,True,"metal,coir,hemp,cork",16.0
+Electronics,Appliances,New,4.229426381869628,False,35.42139056276089,92.34383558560192,3.0,,False,False,False,False,False,False,"glass,silk,wool",0.0
+Furniture,Office,New,82.15073455892905,True,,,5.0,,False,False,True,True,False,True,"wood,rubber",16.22
+Health,Fitness,New,65.08416832944577,False,9.052312082312284,,7.0,9.19748290696596,True,True,True,True,True,True,cork,31.71
+Sports,Outdoor,Used - Like New,81.56666398986312,True,0.7332060755198486,40.760694840307046,12.0,,False,True,False,True,False,False,"glass,ceramic,bamboo,wood",58.16
+Electronics,Mobiles,Used - Fair,67.73888592302137,True,15.679884253119493,96.3484959792612,1.0,3.024008903540114,False,True,True,True,True,True,"rubber,coir,sisal,silk,jute",16.8
+Tools,Hand Tools,Used - Like New,69.61753728944178,False,34.567879357046635,50.73529352262051,11.0,3.4584701892876635,True,False,True,False,False,False,wood,18.46
+Pet Supplies,Pet Food,Used - Like New,95.29628710652928,True,,,,,False,False,True,True,True,False,"jute,stone,leather,bamboo",34.53
+Electronics,Gaming,For Parts or Not Working,16.87914148542583,False,,,20.0,,True,True,False,True,True,True,metal,17.69
+Health,Hair Care,Used - Like New,54.29516384981359,False,40.45929313466279,46.58641112920344,,4.871560775079381,False,True,False,True,False,True,ceramic,4.87
+Automotive,Car Accessories,Used - Good,,False,11.356283915454055,45.67654475029513,3.0,0.0688933423220694,False,False,False,True,False,False,"bamboo,wool",24.07
+Beauty,Skin Care,Used - Good,21.189543213751893,False,41.67888307941064,42.779282452011536,19.0,,True,True,True,False,True,True,sisal,25.0
+Pet Supplies,Pet Toys,Used - Like New,,False,21.444467157828186,56.61334663308575,,,False,False,True,False,True,True,"bamboo,hemp",0.0
+Tools,Power Tools,New,28.7401606465575,True,,16.64403939294204,13.0,,False,True,False,False,True,True,"ceramic,cork",30.87
+Furniture,Office,For Parts or Not Working,,True,24.880837371717934,21.548617848026595,19.0,4.012813720978599,True,True,True,True,True,False,sisal,57.01
+Fashion,Shoes,Used - Like New,43.94983098256869,True,41.81981204046433,,1.0,9.216717328370104,True,False,True,True,True,True,"linen,cotton",24.61
+Electronics,Appliances,Used - Fair,19.80709252102374,True,49.71887321459258,,5.0,4.715417737923431,True,False,True,False,True,True,glass,16.7
+Health,Hair Care,New,,True,34.86563115794305,,6.0,1.4160618545534531,False,True,True,False,False,False,"linen,metal",10.42
+Fashion,Shoes,Used - Good,82.56609530261188,False,28.448617233809298,,16.0,2.8236670272927844,True,False,False,False,True,False,"glass,leather",22.82
+Pet Supplies,Pet Food,Used - Like New,43.261656937517934,False,7.363853335376403,82.62365699604916,4.0,5.925403920622566,True,False,True,False,True,False,silk,14.93
+Sports,Fitness,For Parts or Not Working,,True,5.24933018575836,,20.0,4.607111909781313,True,True,True,False,False,False,sisal,54.61
+Pet Supplies,Pet Toys,New,70.33891866073037,False,16.270403046254593,11.695861563805252,4.0,4.379569818058852,True,True,False,False,True,False,wool,21.38
+Household,Garden,For Parts or Not Working,50.88488019874978,False,27.79680101520591,,9.0,7.293348324091736,False,False,True,True,True,True,cork,26.29
+Automotive,Car Accessories,Used - Fair,21.333246350753555,False,,,,,False,False,True,True,True,False,wood,18.13
+Pet Supplies,Pet Toys,Used - Like New,70.19205746522348,True,15.600431521799596,44.9344805179673,2.0,0.7929346416356775,True,True,True,True,True,True,"jute,stone,ceramic",22.81
+Household,Bedroom,Used - Fair,74.76486652404093,False,,,,,True,True,True,True,True,False,bamboo,33.48
+Furniture,Kitchen,New,62.91939577205186,True,46.28393286733902,35.43312726648263,2.0,,False,True,False,False,False,False,"wood,plastic",11.29
+Furniture,Office,Used - Good,13.03403340762732,False,17.570146407712095,28.11753521957421,10.0,7.09101668905074,False,True,True,True,True,True,fabric,32.09
+Health,Hair Care,Used - Fair,9.931266723247756,True,,,,4.022821161443679,False,False,False,False,False,True,fabric,10.02
+Pet Supplies,Pet Toys,For Parts or Not Working,6.119002302537679,True,27.51424908513923,63.146483516812765,13.0,6.173462909390759,True,True,True,False,True,True,rubber,31.17
+Automotive,Car Accessories,For Parts or Not Working,15.1295926380128,False,45.39006242211511,18.369811396589892,12.0,8.644799866634681,False,False,True,False,False,True,"rubber,bamboo,glass,plastic,wood",33.64
+Toys,Gaming,Used - Fair,67.3488183019349,False,,22.775831007266788,,,False,True,True,True,True,True,"cork,wood",27.73
+Furniture,Kitchen,For Parts or Not Working,15.89272092887606,True,28.29078796970312,72.74405403699836,11.0,7.805203593172423,True,True,True,False,False,False,"leather,rubber",42.81
+Beauty,Skin Care,Used - Like New,9.640799687149016,False,3.0020336757430472,,8.0,9.522421404252716,False,False,False,True,False,True,"silk,paper",9.49
+Household,Bedroom,Used - Good,,True,18.37668680133268,76.8393980348342,7.0,3.730809060006957,True,False,True,True,True,False,"paper,glass,sisal",30.73
+Furniture,Kitchen,Used - Fair,,True,6.639547437695283,90.40177341592064,10.0,8.206173184327119,False,False,True,True,True,True,cork,41.21
+Sports,Outdoor,New,,False,15.885294121030308,29.096565229202493,6.0,,False,True,True,True,True,False,stone,19.0
+Education,Stationery,Used - Like New,,True,,77.4389709369212,,,False,False,False,False,True,False,bamboo,8.0
+Toys,Gaming,Used - Like New,29.49163835040788,True,,,,4.131806226761602,True,True,False,True,False,True,"stone,paper,ceramic,wool",17.08
+Furniture,Office,Used - Like New,42.477237297021766,True,19.07548429061165,69.69937034094448,,,False,True,False,False,True,True,"linen,wool,coir,stone",0.0
+Toys,Gaming,Used - Like New,80.21130439555266,False,,41.1475571049193,,,True,False,False,False,False,True,"silk,bamboo",4.02
+Tools,Hand Tools,Used - Like New,97.12981996740614,True,43.24358764826207,77.21938969979387,,7.733261571565654,False,True,True,False,True,False,"bamboo,wool,coir",25.45
+Household,Garden,For Parts or Not Working,96.669743906014,False,16.971520475909145,30.130553541529263,,5.20210011089886,True,False,True,False,False,True,"metal,rubber,paper,linen",20.2
+Pet Supplies,Pet Food,New,,False,8.657759960856623,31.34739755812292,8.0,,True,False,False,True,True,True,"cork,paper,leather",12.0
+Fashion,Shoes,New,12.570110464029671,False,11.43795224303378,62.42066320570033,,6.518880505934403,True,False,True,False,False,False,jute,9.52
+Electronics,Mobiles,For Parts or Not Working,,False,44.493674029130375,52.60759438615233,14.0,6.5783196627151295,False,False,False,True,True,True,jute,21.58
+Pet Supplies,Pet Toys,New,80.48621439999899,True,,,3.0,4.779530788596582,False,True,True,False,False,False,fabric,28.83
+Education,Laptops,Used - Good,9.199743686021922,False,17.62249510448705,79.43464224108476,,4.120866060087272,True,True,False,False,False,False,"rubber,leather",19.12
+Beauty,Skin Care,New,3.436868363817358,True,,,8.0,1.857991367273697,True,False,False,False,False,True,cotton,18.2
+Electronics,Gaming,New,61.88373373481052,False,32.66924531784514,,7.0,7.933477193882683,True,True,False,False,True,False,paper,17.93
+Pet Supplies,Pet Toys,Used - Fair,82.12299914744993,True,38.17906262534979,50.93865647592168,,8.582347711243347,True,False,True,True,False,False,"sisal,hemp,silk",39.79
+Fashion,Clothing,Used - Fair,,True,13.485357752531735,,,,True,True,False,False,True,False,linen,30.0
+Electronics,Mobiles,New,95.46734957038927,True,34.127128335922954,83.31461449233261,16.0,3.558841393115453,False,False,False,False,True,False,"cotton,coir,hemp",19.11
+Toys,Pet Toys,Used - Fair,25.09431574777445,True,34.979804620870766,,,7.1940199666804,False,True,False,False,False,True,"fabric,silk",9.7
+Health,Hair Care,Used - Like New,96.28554790409724,False,,,5.0,9.18160765254798,False,False,False,True,False,False,sisal,14.81
+Beauty,Skin Care,New,,False,,22.10640880876663,19.0,2.0218493939046347,True,False,False,True,True,True,"fabric,leather",6.02
+Automotive,Car Accessories,Used - Good,81.25568089699216,False,21.163595721441908,,15.0,3.212110409337946,True,True,True,False,True,False,fabric,33.21
+Toys,Gaming,New,,False,,,18.0,,False,True,True,False,False,False,"sisal,linen,jute",4.0
+Fashion,Shoes,Used - Like New,89.39031168531021,True,,48.87448142531001,5.0,3.2225035769394683,False,False,True,True,False,False,glass,37.16
+Sports,Outdoor,Used - Good,80.34921386086181,False,45.95757541368895,83.97204104438072,2.0,3.049304959411676,True,False,False,False,False,True,"wood,silk,bamboo,cork",5.05
+Furniture,Office,For Parts or Not Working,87.92513172131062,True,49.5103046044831,,17.0,,True,True,True,True,False,True,"cork,cotton",48.79
+Beauty,Skin Care,Used - Fair,32.70878616288746,True,,33.48464712182186,11.0,3.698999529083991,True,False,True,False,False,False,"hemp,ceramic,plastic,stone",46.97
+Household,Garden,Used - Good,60.78684016673582,True,,25.63279736942672,13.0,3.9574540593866248,True,False,True,False,True,False,"stone,paper",50.04
+Household,Bathroom,New,86.71494241488236,False,25.093561782915884,53.14670955889572,1.0,1.4226153589817592,False,True,False,False,False,False,"metal,linen",0.42
+Automotive,Car Accessories,Used - Like New,19.87133888440993,False,40.29948769305165,63.940734275678,,,False,False,True,False,False,False,linen,0.0
+Tools,Power Tools,New,31.040167742020763,False,44.51100927009245,87.51956275943883,,3.678236974678872,True,False,False,False,True,True,"metal,ceramic",0.0
+Toys,Gaming,Used - Good,57.281220515448894,True,16.71978848859621,95.86760037218431,6.0,,True,False,False,False,True,False,"rubber,linen",17.73
+Automotive,Car Accessories,For Parts or Not Working,99.79597115069424,True,,,13.0,4.969769658666218,False,True,True,True,True,False,"jute,cork",69.95
+Furniture,Bedroom,For Parts or Not Working,36.62106740617557,False,,90.85174886415496,17.0,3.385776853558937,False,False,True,False,False,False,leather,28.39
+Automotive,Tools,Used - Like New,90.68606310005173,True,,20.968510143569297,13.0,9.709560900733589,False,False,True,False,True,True,"coir,fabric",38.78
+Sports,Outdoor,For Parts or Not Working,5.710885433891422,False,36.07964066260688,,,8.616015964591718,False,False,True,False,True,False,"wool,cork,linen",23.62
+Health,Hair Care,Used - Good,41.822642898355866,False,,89.48201413525157,9.0,,False,False,False,False,False,False,"silk,bamboo,plastic",14.0
+Sports,Outdoor,Used - Fair,24.75006299335246,True,,,,5.395369404037326,False,True,True,False,True,False,plastic,32.87
+Toys,Pet Toys,For Parts or Not Working,97.39721026056304,False,11.713986861202772,37.0014404905662,15.0,,True,True,True,False,False,False,"silk,cork,jute,fabric,sisal",55.74
+Household,Garden,Used - Good,7.941559544822951,True,,87.92307835630436,13.0,4.415737690390213,True,False,True,True,True,False,silk,38.21
+Toys,Pet Toys,Used - Fair,23.66803251339762,True,7.05881324826474,,20.0,,False,False,True,False,True,True,glass,27.37
+Furniture,Office,Used - Like New,27.02038791736251,True,,,,0.8577179389114664,False,True,True,True,True,False,"cotton,fabric",33.56
+Pet Supplies,Pet Toys,Used - Good,7.327653838205306,False,,55.32891784683152,20.0,3.6704565853024063,False,True,False,True,False,False,"leather,fabric",28.67
+Health,Fitness,Used - Like New,73.45124569051066,False,,,3.0,6.047902985692193,True,True,False,False,True,False,"sisal,bamboo,hemp",22.39
+Pet Supplies,Pet Food,For Parts or Not Working,89.08268596496596,True,,,10.0,,True,False,True,True,False,True,"metal,paper",43.91
+Automotive,Car Accessories,For Parts or Not Working,10.169543726664932,False,,90.19148339069716,,,False,True,False,False,True,False,"wood,stone,linen,jute",15.0
+Automotive,Car Accessories,For Parts or Not Working,87.4524050615543,True,16.393054131600817,27.51783606576342,14.0,,False,True,False,True,False,True,"wool,stone",36.75
+Furniture,Kitchen,New,65.05578671045077,False,,,12.0,4.113045512497585,True,True,True,True,True,True,"plastic,metal,fabric,linen",14.62
+Fashion,Clothing,Used - Fair,84.02645515561719,True,26.61570895062016,,16.0,2.0566680452224406,True,False,True,False,False,True,"linen,bamboo,sisal",38.46
+Electronics,Appliances,Used - Fair,31.36309986618715,True,19.06099214669731,33.036415732363224,13.0,6.134833090988701,False,True,True,False,False,False,"metal,stone",42.27
+Beauty,Skin Care,Used - Fair,14.314282261765454,True,3.9461295314001954,15.213834071264143,16.0,7.713823080280619,False,False,True,True,True,False,leather,64.15
+Health,Fitness,For Parts or Not Working,17.28501067084792,True,29.931116868035712,31.630669645141133,2.0,2.327351777586629,True,False,True,True,False,True,"coir,glass,ceramic,hemp",39.06
+Electronics,Appliances,Used - Good,,False,23.31702882931375,90.40863519879298,15.0,,True,True,True,True,True,False,"sisal,wool,wood",35.0
+Tools,Hand Tools,For Parts or Not Working,18.39120358408731,True,44.85627771408541,,9.0,5.892187801900412,False,False,True,True,True,False,jute,36.73
+Electronics,Laptops,Used - Fair,47.90169033421235,False,15.615419479521366,,9.0,6.383181050512916,True,True,True,False,False,False,"rubber,wood",35.38
+Automotive,Car Accessories,Used - Like New,71.75715991622494,True,,,14.0,4.345052186764282,True,True,True,False,True,True,"stone,hemp",41.52
+Household,Garden,Used - Good,,False,9.497170363120894,,6.0,8.382892871604824,True,False,True,True,True,False,"plastic,glass",30.38
+Automotive,Car Accessories,Used - Good,36.34573503435693,True,16.68948972269694,46.0839854779639,7.0,,False,True,True,False,True,False,"ceramic,wood,jute,plastic",33.63
+Sports,Outdoor,Used - Fair,,True,42.446643614994535,33.110394513082724,4.0,6.679899619559588,False,False,False,True,True,False,"cotton,plastic,silk",25.68
+Automotive,Tools,New,,False,,33.401114936565044,,2.6383434529195373,False,True,True,True,True,False,bamboo,16.64
+Household,Garden,Used - Like New,69.79616364188176,False,44.4487690128896,54.33813739374896,,,True,False,True,False,True,True,"jute,glass,silk",0.0
+Pet Supplies,Pet Food,Used - Fair,,False,43.97899433665592,58.847084625409614,15.0,0.7628981726811312,True,False,False,True,False,True,"glass,hemp,fabric,jute",15.76
+Electronics,Gaming,Used - Like New,87.27342089063968,True,,,,7.407274535656389,True,False,True,True,False,False,"hemp,fabric,bamboo",46.13
+Education,Books,Used - Good,51.216126246588125,True,6.780806884093886,,13.0,5.144824820801076,True,True,True,False,False,False,"paper,silk",55.27
+Toys,Gaming,Used - Like New,87.15237620657432,False,0.9656945847707832,,15.0,0.2101597892092599,True,True,False,True,True,True,"bamboo,plastic,silk,cork",19.93
+Beauty,Skin Care,Used - Like New,,True,34.14581337114043,73.47601592736055,6.0,,False,True,False,False,True,True,fabric,0.0
+Toys,Pet Toys,New,47.18663734822567,False,34.05110021582587,77.20407555187937,1.0,2.4243023655633014,False,True,True,False,True,False,"linen,jute,fabric,hemp",6.42
+Health,Hair Care,New,15.64728136662824,False,34.0151672336184,53.96679552696798,15.0,,False,False,False,True,False,True,wood,0.0
+Education,Stationery,New,73.4477320761139,True,40.30938308360778,13.770631201262926,18.0,1.2007309815065126,True,False,True,True,False,False,"paper,jute",36.55
+Automotive,Car Accessories,Used - Good,83.43713258755511,False,,89.06315066399836,7.0,2.7072868779565806,True,True,False,True,True,True,"wood,sisal,paper",22.05
+Education,Books,New,,True,31.70803897348692,27.18451401843956,9.0,3.0524674703139087,True,False,False,True,True,False,"plastic,leather,wool,stone",20.05
+Pet Supplies,Pet Food,Used - Fair,81.19672692628907,False,,56.79325071239664,1.0,0.2600505525454777,True,False,False,True,True,True,"wood,leather,paper",8.38
+Furniture,Kitchen,Used - Like New,3.841624773501728,True,7.975754759878338,27.864400858678945,10.0,,False,True,True,True,False,False,"cork,leather,wood,silk,metal",50.38
+Sports,Fitness,For Parts or Not Working,84.99432446050646,False,20.27395954931337,,,0.6789225258052412,True,False,True,True,False,False,"paper,cork",28.18
+Electronics,Laptops,New,,False,38.672958615790655,65.6917281183896,6.0,7.101625718106808,False,True,False,False,True,False,"silk,sisal",11.1
+Electronics,Appliances,For Parts or Not Working,69.60683575364537,False,30.64453317525543,51.10981491350813,4.0,5.316588037252678,True,False,True,True,False,False,"wool,jute",34.32
+Sports,Outdoor,New,3.656789045326592,True,,,19.0,,True,False,True,False,False,False,"jute,plastic,wool",23.37
+Electronics,Gaming,Used - Like New,25.212505724439715,False,27.15072784918244,,17.0,3.489960770804511,False,True,False,True,True,True,"linen,rubber",8.49
+Fashion,Accessories,New,36.766099970780665,False,,91.32987844179884,16.0,2.0640330728989795,False,True,True,False,False,False,"plastic,jute,bamboo",15.06
+Education,Laptops,New,13.468763776589752,True,30.697269889232057,65.50776591863786,20.0,8.207701782830682,True,False,True,False,True,False,"ceramic,cotton,silk",25.55
+Tools,Hand Tools,Used - Like New,44.096943905374566,False,25.056471416587343,70.86162143126563,,6.166551416284078,False,True,True,False,True,False,"hemp,bamboo,leather,metal,wood",11.17
+Household,Garden,For Parts or Not Working,29.84268500910172,True,25.79731944648353,42.597867250099306,6.0,,False,True,False,True,False,True,rubber,26.98
+Electronics,Laptops,Used - Like New,,False,26.2856472712346,58.52239007331894,1.0,,False,True,False,False,False,False,"plastic,jute",1.0
+Beauty,Hair Care,Used - Like New,40.69008515364922,False,,,1.0,5.538746754908955,False,False,False,True,True,False,silk,1.61
+Education,Books,For Parts or Not Working,86.59500898939285,True,,42.53804322734894,13.0,3.1167690090457487,True,False,False,False,False,False,bamboo,61.78
+Sports,Outdoor,Used - Fair,77.16067230242788,True,,,,2.8072581529892937,False,True,False,True,True,True,"jute,hemp,rubber",25.52
+Tools,Power Tools,Used - Good,78.28523856222778,True,,54.03578767677034,10.0,5.474591080522502,True,False,False,True,True,True,"ceramic,coir,cotton",41.3
+Tools,Hand Tools,Used - Like New,,True,21.492587036888125,18.31463397740054,,4.186872817385878,True,True,False,True,True,False,linen,27.19
+Education,Laptops,New,30.04523486912598,True,18.198952729218025,14.938707532935606,,8.614460290171483,True,True,False,False,False,True,"bamboo,linen,wool",27.62
+Sports,Outdoor,Used - Good,69.61671740764326,False,48.44090707322584,61.59563900003555,19.0,6.315069798722673,True,True,True,False,False,False,"glass,linen,plastic",36.32
+Fashion,Accessories,Used - Good,32.06477649638393,False,20.274660718386336,27.70323999307434,13.0,,False,True,True,True,False,False,"coir,hemp,bamboo",35.0
+Electronics,Appliances,Used - Good,92.35350967121876,True,,,19.0,1.3844104910895516,False,True,True,False,True,False,"linen,paper,wool",45.62
+Education,Laptops,For Parts or Not Working,58.63912874525564,True,13.888277707667484,,,6.158171837277814,True,True,False,False,True,True,wool,37.02
+Tools,Power Tools,Used - Good,68.79691905909002,False,,21.421777662895792,13.0,,True,True,True,True,False,True,"metal,coir,cork,cotton,rubber",32.88
+Education,Books,Used - Like New,,True,26.89437296797673,93.4911843210564,10.0,8.633768274862767,False,False,True,True,True,True,"metal,wood,paper",19.63
+Health,Skin Care,For Parts or Not Working,86.78138923511116,True,15.201838855205992,,,8.986803954473194,True,False,False,True,True,False,cork,50.66
+Toys,Gaming,Used - Fair,62.93672111801558,True,31.30231235043636,74.08587938058453,,,True,True,False,True,False,False,plastic,20.0
+Household,Kitchen,Used - Fair,11.175669403469602,True,4.044154107576141,72.71063154217063,10.0,4.409559700511032,False,True,True,False,True,True,"metal,fabric,ceramic,wood",43.53
+Furniture,Kitchen,Used - Fair,84.11570890723318,False,,,,4.173769126840156,False,True,False,False,True,True,"ceramic,plastic",5.0
+Pet Supplies,Pet Food,Used - Like New,90.5496464884378,False,48.46114329245204,,19.0,,False,True,True,False,True,True,"cotton,sisal",5.05
+Toys,Gaming,New,44.11068964479755,True,,,20.0,5.680641533643888,True,False,False,False,False,True,linen,18.09
+Furniture,Office,Used - Fair,,True,8.44737141024218,,9.0,7.172301507266397,True,True,False,False,False,True,"plastic,leather,linen",36.17
+Tools,Hand Tools,New,16.006637642486744,False,29.569903625764542,,12.0,1.5820341509214009,False,False,True,True,True,True,glass,4.58
+Sports,Fitness,Used - Like New,55.45960839699013,False,24.95522689236452,,2.0,0.6051253506299359,True,False,True,False,True,True,sisal,0.0
+Tools,Power Tools,Used - Like New,19.217339556797963,False,47.30750588393617,41.3377008748495,9.0,,True,False,True,False,False,False,"paper,wood,silk,rubber",19.0
+Fashion,Clothing,Used - Fair,38.46192369788333,True,4.235592686147345,98.46336175690932,7.0,,True,True,True,False,True,True,leather,33.85
+Household,Bedroom,Used - Fair,99.57174207942498,True,,29.963378056211354,4.0,,False,False,True,True,False,False,jute,43.96
+Education,Books,For Parts or Not Working,27.056199018596217,False,,,1.0,9.731500109214371,True,True,False,True,False,False,"coir,silk,hemp",39.44
+Health,Fitness,Used - Good,50.218946330436566,True,40.625346316041394,,,7.468250390422845,True,False,False,True,False,True,rubber,17.49
+Fashion,Clothing,For Parts or Not Working,2.067309685288976,True,,,,,False,True,True,True,False,False,"stone,metal",35.21
+Tools,Hand Tools,Used - Like New,70.14548864216351,False,,,,,True,True,False,True,False,True,plastic,0.0
+Health,Fitness,Used - Like New,,True,6.267027313910845,93.70426898469684,,3.5106179897144383,False,True,False,False,False,False,"hemp,leather,cork",21.51
+Fashion,Clothing,Used - Fair,51.3559726588156,False,5.3369983447640825,80.02131114872952,9.0,,True,False,False,False,True,False,"ceramic,paper,rubber",19.0
+Pet Supplies,Pet Food,Used - Good,,False,25.76635519749673,87.23524556647372,8.0,,True,True,True,True,True,True,"jute,ceramic",23.0
+Toys,Pet Toys,New,6.982404317034208,True,46.61216567202384,56.36797223236416,17.0,4.431448733246967,False,False,False,True,True,False,wood,16.13
+Education,Laptops,Used - Fair,73.80764318945648,True,,40.65792344606439,9.0,7.1241114237092535,True,True,False,True,True,True,"wood,jute,ceramic",58.5
+Electronics,Laptops,Used - Like New,46.6612445631021,False,21.433755065808302,,3.0,9.027932342927414,False,False,True,True,True,False,"glass,fabric",17.03
+Health,Skin Care,Used - Fair,8.410763609172955,True,48.58636761115128,,3.0,8.734619132624365,True,True,False,False,True,False,"glass,ceramic",27.58
+Furniture,Office,Used - Good,,True,,,13.0,9.075353222362432,True,False,False,False,False,True,plastic,29.08
+Education,Laptops,Used - Like New,,True,,,13.0,3.0503942868876823,False,False,True,False,False,False,"leather,ceramic",23.05
+Health,Skin Care,For Parts or Not Working,49.52976288849062,False,12.781450556725355,24.260528487641505,6.0,0.9503593470126436,True,True,False,True,False,True,rubber,32.9
+Automotive,Tools,Used - Fair,,True,39.929302267763,49.25046281275863,7.0,0.0487088559771864,False,True,False,False,False,True,bamboo,22.05
+Beauty,Skin Care,For Parts or Not Working,75.17991200734312,True,47.97456760250883,25.26786866603699,20.0,,True,False,False,True,False,True,"metal,hemp",42.52
+Automotive,Car Accessories,Used - Good,60.19688275825034,False,49.91757000131147,71.5414438833883,20.0,2.930272437221937,True,True,True,False,True,False,"coir,sisal,plastic,glass",32.93
+Fashion,Clothing,Used - Good,,False,25.239240585778088,,20.0,,False,False,True,False,True,False,"coir,stone,plastic,bamboo,rubber",20.0
+Education,Stationery,Used - Fair,85.61136324452504,False,,16.60549918322296,18.0,1.6922990382525605,False,False,False,True,False,True,hemp,31.25
+Furniture,Bedroom,Used - Fair,40.06447469238703,True,,,7.0,1.4034233814358577,False,False,True,True,True,False,"jute,rubber",37.41
+Tools,Hand Tools,For Parts or Not Working,,False,,56.96627152042446,20.0,2.3417201966871595,True,True,False,True,True,False,glass,37.34
+Fashion,Clothing,Used - Good,93.20779070872432,True,5.500108720110733,,18.0,9.958148787108868,False,True,True,False,False,False,paper,59.28
+Electronics,Laptops,Used - Good,57.29251978164124,True,,,15.0,3.769680752668496,False,True,False,True,False,False,paper,44.5
+Tools,Power Tools,Used - Good,51.25082594688678,False,42.14403060695172,54.216721498954485,3.0,2.9887783068186167,True,False,True,True,True,True,paper,15.99
+Tools,Hand Tools,Used - Like New,85.8814487986469,False,41.99911623890446,70.99582156811637,,,True,True,False,True,True,True,"glass,cork,wood",0.0
+Toys,Gaming,New,,True,10.33237395489962,11.831832642471376,15.0,4.006513516325928,False,False,True,False,True,True,"linen,sisal",27.01
+Household,Bedroom,Used - Fair,14.527085863672797,False,20.31307979325064,45.83487344086922,6.0,3.671297061745261,True,False,True,True,False,False,jute,34.67
+Household,Bathroom,Used - Fair,22.494932679827272,True,14.072246917385083,,2.0,9.61861072096456,True,False,True,True,False,False,metal,48.87
+Toys,Pet Toys,Used - Fair,24.308670966667844,True,45.97187568240776,42.83892790413473,5.0,6.569614679123853,False,False,True,False,True,False,"paper,jute",29.0
+Electronics,Mobiles,Used - Good,6.372787593857443,True,,37.75527387529897,7.0,8.217026135289771,True,False,False,False,True,False,jute,40.85
+Furniture,Bedroom,Used - Fair,35.63937060439767,False,,,4.0,4.600669631074851,True,True,True,True,False,False,"paper,cork",38.16
+Fashion,Accessories,New,43.51849605766717,True,21.71853993128574,89.42235533101311,3.0,3.5294159176661246,True,True,True,True,True,True,"coir,plastic,silk,hemp,metal",9.88
+Electronics,Appliances,New,59.28614028114784,False,41.13471618166424,66.13206847504111,16.0,,False,False,True,False,True,False,leather,8.0
+Tools,Power Tools,New,,True,,75.92820386885423,11.0,,True,False,True,False,False,False,fabric,16.0
+Household,Bedroom,For Parts or Not Working,,True,,11.424797080159742,,,True,False,True,True,True,True,"cork,hemp",45.0
+Automotive,Car Accessories,Used - Good,12.73149783859926,False,33.3935273095823,,,,False,False,False,False,True,True,"cork,hemp,sisal",5.0
+Furniture,Bedroom,Used - Like New,1.4951793297910632,False,,,3.0,9.260873542309415,False,False,False,False,False,False,wood,8.41
+Household,Bathroom,For Parts or Not Working,10.214224518199432,True,31.586048006021127,,20.0,0.3336012507374153,True,False,False,False,False,True,"fabric,paper",16.36
+Electronics,Mobiles,New,88.29943391128488,False,30.686879540274635,39.75776698214963,10.0,,True,False,True,True,True,False,"glass,metal",23.0
+Toys,Gaming,For Parts or Not Working,86.1132217975466,False,35.77505670781275,,2.0,7.203728978539018,False,True,True,True,True,True,hemp,24.2
+Electronics,Gaming,New,,False,21.77989818348896,,11.0,,True,True,False,True,False,True,"glass,rubber",8.0
+Education,Laptops,New,48.66672174633574,True,16.935850308078656,63.56543221059942,19.0,5.243995024656982,True,True,True,False,True,True,"stone,bamboo",24.11
+Household,Kitchen,Used - Fair,32.640502038619225,True,11.37377772043299,31.036086895423228,18.0,2.2794516306418435,False,False,True,False,True,False,plastic,45.54
+Fashion,Accessories,New,19.794067386131044,True,,57.31948110125189,,,False,True,True,True,True,True,"metal,coir",2.98
+Toys,Gaming,Used - Good,,False,21.195180534394822,,5.0,5.264691198281053,False,False,False,False,False,False,"hemp,jute",15.26
+Electronics,Gaming,Used - Like New,15.942293194564892,True,26.5012623964404,,5.0,9.736322900286666,True,True,True,True,False,False,ceramic,34.33
+Sports,Outdoor,For Parts or Not Working,20.638793027124013,True,,,,7.529923142087832,True,False,True,False,False,False,fabric,39.59
+Toys,Pet Toys,Used - Good,16.212751351689736,False,8.978376742725748,35.63747656515103,20.0,4.925658359191458,False,True,True,False,True,False,"sisal,coir",32.55
+Fashion,Clothing,Used - Fair,,True,9.541150205140468,,,4.603363210070532,False,False,True,False,True,False,"silk,metal",29.6
+Fashion,Clothing,New,39.65326914204779,True,15.77235862327141,37.25525016748893,5.0,2.487876786204948,False,True,True,True,True,False,"rubber,cork,metal",27.45
+Household,Bedroom,Used - Fair,,True,,,17.0,0.2725495845521009,True,False,False,True,True,True,glass,25.27
+Health,Fitness,Used - Like New,0.7933282123903762,True,,76.0433079429063,1.0,,True,False,False,False,False,True,rubber,0.0
+Household,Bedroom,Used - Fair,74.91251237455936,True,10.957040482983253,25.52834664141468,9.0,3.947389489157964,True,False,False,True,True,False,ceramic,55.44
+Toys,Gaming,New,,True,25.18104270335397,,11.0,9.971004033532685,True,True,False,False,True,False,paper,25.97
+Tools,Power Tools,Used - Like New,96.97021965673902,True,,,11.0,7.017458725111132,False,False,False,False,False,False,"paper,hemp",41.71
+Health,Hair Care,For Parts or Not Working,73.10614185914113,True,35.81096859626095,96.13879461147388,,3.354712595937092,True,False,False,False,True,True,"fabric,leather,cotton",18.67
+Fashion,Shoes,New,70.53801012911576,True,,44.40222502060925,,0.816950320668145,False,False,True,False,False,True,"sisal,hemp,silk",20.87
+Furniture,Bedroom,For Parts or Not Working,91.2923418719178,True,41.59644639346224,14.847477167871483,,3.708244983111191,True,False,True,True,False,False,paper,47.84
+Furniture,Bedroom,Used - Good,86.81363975342393,False,,28.06987624644579,10.0,9.844982258872603,True,False,True,False,False,True,fabric,29.53
+Beauty,Skin Care,Used - Good,89.27531439281748,True,,,,6.689679429239336,False,True,False,True,True,False,"metal,rubber,fabric,leather",40.62
+Pet Supplies,Pet Toys,Used - Good,71.38326956761195,False,21.88605230240297,97.0320111668144,5.0,2.5654078354629304,True,False,True,True,False,False,"silk,linen",27.57
+Tools,Power Tools,Used - Fair,50.507120429650975,False,45.12586799373175,81.0036479160528,13.0,8.699389088167774,False,False,True,False,False,False,"glass,bamboo,coir",28.7
+Household,Kitchen,New,27.596723554559823,False,,,,9.432044869871042,True,True,True,True,True,True,"glass,plastic",6.19
+Furniture,Office,Used - Like New,,False,,28.524831060593478,2.0,2.3019550613709763,False,True,False,False,False,True,wool,0.0
+Automotive,Tools,For Parts or Not Working,34.523498080064144,True,37.7915329376448,45.2883542410767,,,True,True,False,True,False,False,linen,33.45
+Beauty,Hair Care,New,64.36694032096705,True,22.166495001749816,91.95572273786117,,4.682965268174197,False,False,True,True,False,True,wood,10.12
+Health,Skin Care,Used - Like New,,True,,,16.0,0.1962544003330901,True,False,False,True,False,False,"paper,wool,stone,leather,glass",25.2
+Automotive,Tools,For Parts or Not Working,24.809156816180845,False,,13.725710748853697,19.0,3.38545601473065,True,False,True,False,True,True,ceramic,26.87
+Pet Supplies,Pet Toys,New,45.9357535940169,False,20.199992470921643,,2.0,,True,True,True,False,False,True,"hemp,jute,metal,linen,leather",0.0
+Sports,Fitness,New,53.70275939719223,False,26.92520386333277,,,,True,False,False,True,False,False,"bamboo,rubber",3.0
+Beauty,Hair Care,New,,False,11.745185057687012,73.96505110797528,4.0,7.039236856913088,True,False,False,True,True,False,rubber,14.04
+Automotive,Car Accessories,For Parts or Not Working,,True,46.13828751053743,73.50750363929671,,8.82302130405491,False,False,True,True,True,False,stone,28.82
+Electronics,Appliances,Used - Good,,True,47.01826329330404,,,,True,False,False,False,False,True,silk,5.0
+Household,Garden,For Parts or Not Working,38.1734616472191,False,30.01457481078758,13.545983873776732,11.0,,False,True,False,False,False,True,"linen,glass",25.0
+Toys,Gaming,New,,False,3.17657215667005,78.88275515830355,3.0,4.618250954312124,True,False,True,True,False,True,"glass,stone,coir",5.62
+Automotive,Tools,Used - Good,99.9515981704414,True,29.3873878716278,,8.0,3.571983535192965,False,True,False,True,True,False,"metal,glass,linen",39.57
+Furniture,Office,New,16.55542852376881,False,45.04548044260393,90.13491053719284,,,True,False,False,False,True,False,"leather,bamboo,metal",0.0
+Electronics,Mobiles,Used - Like New,93.72407072242636,False,33.60769362578872,67.74768812421416,15.0,4.209610317572143,False,False,False,True,False,False,"coir,sisal",14.21
+Pet Supplies,Pet Food,Used - Like New,64.19009217384225,False,,89.54262544250311,18.0,5.571263268573415,True,False,False,False,True,False,stone,15.57
+Sports,Fitness,Used - Fair,20.480818827298556,False,47.24657404974648,,16.0,9.906082382347284,False,True,True,False,True,False,"plastic,metal",34.91
+Household,Bedroom,Used - Like New,54.76233162053892,False,29.082130319991865,,14.0,8.057776796912252,True,True,False,False,True,False,silk,23.06
+Fashion,Clothing,Used - Like New,67.40704415507575,False,39.787592661719806,,,5.97953929257184,False,False,True,False,True,False,"plastic,rubber",5.98
+Toys,Pet Toys,Used - Good,38.166857473195584,False,0.6911133361495616,,4.0,9.074516575847166,True,True,False,True,True,True,"leather,plastic",27.89
+Electronics,Appliances,For Parts or Not Working,56.05676830015911,False,18.136355593019356,21.622074826897908,,,True,False,True,True,True,False,metal,35.0
+Automotive,Car Accessories,Used - Good,31.95891771034773,True,,,8.0,7.174943275532904,False,False,True,False,True,True,jute,28.37
+Automotive,Tools,Used - Good,25.88947717039931,False,27.187161744416333,75.91271236344242,8.0,,True,True,False,True,False,False,paper,28.0
+Fashion,Shoes,Used - Fair,58.30889645347799,False,30.93760497748454,90.88507090135818,7.0,4.416503538573711,False,False,False,False,True,True,jute,6.42
+Tools,Power Tools,For Parts or Not Working,91.14729488568572,True,,87.82523329569686,11.0,0.0777812604043703,True,False,False,True,True,True,ceramic,32.19
+Health,Fitness,Used - Good,63.96269766571302,True,13.656332375148546,92.57695543605249,4.0,,False,True,False,False,True,True,"ceramic,fabric",18.4
+Automotive,Tools,Used - Good,,True,16.61061748928277,31.45822559298894,19.0,3.4935025608673795,False,True,False,True,True,False,"ceramic,jute,coir,bamboo,wool",46.49
+Health,Hair Care,Used - Like New,98.50419822874024,True,,,,2.961852892263087,True,False,True,True,True,True,"wood,plastic,wool,metal",22.81
+Pet Supplies,Pet Toys,Used - Like New,18.741398684485063,False,1.9201331958020973,,7.0,7.805670991605035,False,False,False,False,False,False,"plastic,wool",12.68
+Pet Supplies,Pet Food,New,54.55640818940086,True,,47.78317913991839,9.0,8.943954157601794,False,False,False,True,True,True,"fabric,linen,leather,coir,cotton",36.4
+Education,Stationery,Used - Like New,39.91389281452338,False,23.85580123308245,42.387341491660905,1.0,2.987284948233272,True,True,True,True,True,True,glass,13.99
+Sports,Fitness,Used - Good,34.90566408299595,False,28.48668671935383,93.14693536425926,4.0,0.5421999424461144,False,False,True,True,False,False,"linen,jute,paper,cork",19.54
+Household,Bathroom,For Parts or Not Working,5.450114729917055,True,,,16.0,0.9742953665461718,True,True,True,True,True,True,"rubber,wood",41.52
+Education,Books,Used - Like New,83.07159772638923,True,12.82137595095938,46.3354212189507,8.0,1.8727917828792684,False,False,False,False,True,True,hemp,33.18
+Education,Stationery,New,78.1538176470643,True,4.739753241932886,73.03063667859684,1.0,3.8547132948079055,False,False,False,True,True,False,leather,23.67
+Beauty,Hair Care,New,,True,20.018751880422457,,7.0,,False,True,True,True,False,True,"bamboo,leather",18.0
+Toys,Gaming,Used - Like New,65.56773455602669,False,,81.92319775386883,1.0,3.023722061312293,False,True,True,False,True,False,"metal,jute,plastic",9.02
+Automotive,Car Accessories,New,26.71865606854823,False,,,9.0,1.752457154075998,False,False,True,False,True,True,"fabric,jute",0.0
+Fashion,Shoes,Used - Fair,22.20960576055824,True,,69.43954199356115,9.0,8.377741979363204,False,False,True,True,True,False,"sisal,wood,bamboo",47.6
+Fashion,Shoes,For Parts or Not Working,80.00798166258843,True,,62.04055826559394,5.0,,False,False,False,False,False,True,"hemp,glass",26.0
+Household,Bedroom,For Parts or Not Working,28.824819824442105,False,,97.82881550806016,1.0,0.6284039294992549,True,True,True,False,True,True,metal,16.63
+Fashion,Accessories,For Parts or Not Working,32.88124207302619,False,,,,9.05391900936482,True,True,True,True,False,False,metal,33.34
+Fashion,Shoes,Used - Fair,85.80120894041514,True,23.88644092361879,66.00757265553858,,3.112783485619386,False,False,True,False,False,False,"hemp,rubber",17.69
+Health,Hair Care,For Parts or Not Working,57.39025818264742,False,35.1474376284105,54.40623341748166,14.0,4.863582120837007,False,False,False,False,False,False,coir,24.86
+Education,Laptops,Used - Like New,,True,16.384312697441697,,,,True,False,False,True,False,False,metal,8.0
+Furniture,Kitchen,For Parts or Not Working,93.0715922619156,False,,,8.0,,True,False,True,False,True,True,"leather,wool",18.31
+Sports,Fitness,Used - Fair,89.25670783412859,True,4.754851595882196,,14.0,3.851321181414995,True,True,True,False,True,False,"wool,wood,ceramic,linen",72.78
+Pet Supplies,Pet Food,Used - Like New,74.73846379081509,False,23.225329299542107,,,1.296330642527974,False,False,False,False,False,False,stone,0.0
+Health,Hair Care,Used - Good,52.16988848148533,True,30.57419937434065,,,9.892491394739638,True,False,True,False,False,True,"fabric,paper",20.11
+Automotive,Car Accessories,Used - Good,59.56285820547641,True,42.67837789193221,71.95171487873276,12.0,6.764336819405173,False,False,True,True,True,True,"rubber,glass,wood",21.76
+Toys,Gaming,Used - Fair,18.89116176211701,False,9.765319055374146,10.921130723614542,,5.714767243386547,True,True,False,True,False,True,"sisal,cotton",33.6
+Pet Supplies,Pet Toys,Used - Like New,,True,,23.268050762698092,20.0,6.157065692812155,False,False,True,True,False,False,fabric,41.16
+Health,Hair Care,Used - Good,92.56512054350668,False,41.997067676395446,,,4.526014951183505,False,False,False,False,True,True,ceramic,5.0
+Automotive,Tools,Used - Fair,96.76325664677606,False,17.562978610063745,,,,True,False,True,True,True,False,"plastic,wood,hemp",20.0
+Automotive,Tools,New,,False,,48.92847585821139,8.0,9.604334169659872,True,True,True,False,False,True,"coir,glass",11.6
+Toys,Pet Toys,Used - Like New,5.976963551820569,False,7.611889169499477,,10.0,1.8918855313601808,True,False,False,True,False,True,"cork,stone,fabric",13.49
+Electronics,Gaming,New,11.590725272683963,True,,23.95670383374558,11.0,,False,True,False,True,True,True,wool,24.16
+Toys,Gaming,Used - Fair,,False,14.616577555601657,55.94165568061669,,5.12232227584205,True,False,False,True,True,True,"rubber,coir,linen",10.12
+Sports,Outdoor,Used - Good,,False,26.56023104089668,,12.0,,False,True,True,False,False,False,plastic,25.0
+Electronics,Gaming,Used - Fair,63.603079414912536,False,38.73997151037374,,9.0,3.314530202983723,False,False,False,True,True,True,rubber,12.31
+Automotive,Tools,Used - Fair,74.27863761962483,True,,78.21261568922417,13.0,,False,False,True,True,False,True,"fabric,silk,glass,bamboo",35.43
+Sports,Outdoor,Used - Fair,55.805352636158176,True,28.34012263111449,31.519696272935057,3.0,,True,False,True,True,True,False,"paper,coir",36.58
+Toys,Gaming,New,38.95535117950659,True,31.60080760695549,,5.0,5.0716088475201815,False,True,True,True,True,True,"ceramic,sisal,rubber,linen,paper",11.97
+Pet Supplies,Pet Food,New,89.68263256800351,True,,74.93267664640115,20.0,7.410886814800652,False,False,True,True,True,False,jute,32.38
+Furniture,Kitchen,For Parts or Not Working,34.48630217624383,True,46.35223202116256,87.35646063651254,6.0,,True,True,False,False,True,False,"bamboo,ceramic,sisal",32.45
+Fashion,Clothing,Used - Like New,63.03038951685268,True,41.41507438836972,81.11293877877077,1.0,7.289871050708653,False,False,False,True,False,True,"coir,rubber,cork,stone,wool",0.0
+Health,Hair Care,Used - Like New,7.179209906610618,True,5.775002643581218,97.88684256323886,,4.662020515155096,False,False,False,False,True,False,"hemp,glass",18.38
+Fashion,Clothing,New,,True,32.44114772445303,62.83473509728658,5.0,6.939519935269867,False,True,False,False,False,False,"sisal,glass",9.94
+Beauty,Skin Care,Used - Fair,50.39578446414769,False,21.38351950429417,,11.0,8.444421812732024,False,False,True,True,True,False,"cotton,stone",33.44
+Beauty,Skin Care,Used - Fair,11.74289331085342,True,2.992040138904703,22.35044094170848,,,True,False,True,True,True,False,"paper,cork,stone,cotton,coir",61.17
+Electronics,Appliances,New,,True,48.07224251614706,35.74483157148917,15.0,4.455352424729984,True,True,True,False,False,False,stone,27.46
+Beauty,Hair Care,Used - Fair,41.35492118381509,True,,18.542564983717885,16.0,1.4424612414081728,True,True,True,False,True,False,"coir,cork",65.58

@@ -1,0 +1,21 @@
+root_category,main_category,materials,condition,recycled_content,recyclability,carbon_footprint,energy_efficiency,durability,repairability_score,ethical_sourcing,cruelty_free,plastic_free,natural,destructable,hazardous,materials_str,sustainability_score
+Household,Garden,"['metal', 'leather', 'wool', 'fabric']",Used - Good,17.792017945111372,False,0.5959432369848157,58.73484481567052,13.0,7.6524921119272395,True,False,True,True,False,False,"metal, leather, wool, fabric",37.65
+Toys,Gaming,"['linen', 'bamboo', 'fabric', 'glass']",New,39.70833423729889,False,,,,,True,True,False,False,True,True,"linen, bamboo, fabric, glass",0.0
+Tools,Hand Tools,['linen'],New,30.047913576665543,False,15.727853914283996,,6.0,,False,True,False,True,False,True,linen,0.0
+Sports,Fitness,"['cork', 'ceramic', 'wool', 'linen', 'glass']",Used - Fair,59.95297661346689,False,30.57805424950795,,,2.6101947309396545,True,True,False,False,True,False,"cork, ceramic, wool, linen, glass",17.61
+Toys,Pet Toys,"['wool', 'ceramic']",Used - Like New,,True,45.04058277552693,,18.0,4.418180024998323,False,True,False,False,True,True,"wool, ceramic",4.42
+Fashion,Shoes,"['wood', 'wool']",Used - Like New,96.08355766440168,True,,,1.0,0.3499739570153859,True,True,False,False,True,True,"wood, wool",25.96
+Household,Bathroom,"['silk', 'wool']",Used - Good,,False,,72.89650838546896,,5.796791461263155,True,True,False,False,True,False,"silk, wool",20.8
+Beauty,Skin Care,['fabric'],Used - Good,97.26053244918623,True,11.24982058760759,,,0.06165282890950974,False,True,False,True,True,True,fabric,29.79
+Health,Fitness,"['hemp', 'plastic', 'ceramic', 'linen']",For Parts or Not Working,61.11788748126836,False,,31.45309114002916,,6.327599644309108,False,True,True,True,True,False,"hemp, plastic, ceramic, linen",33.44
+Toys,Pet Toys,"['cotton', 'coir']",Used - Like New,19.690254358528037,True,36.93260362793907,20.191067215914742,1.0,8.533911632195752,True,False,False,False,False,True,"cotton, coir",21.5
+Beauty,Skin Care,['leather'],Used - Good,83.01159437598439,True,22.636823030736437,,9.0,0.11542423477461372,True,True,True,False,True,True,leather,30.42
+Sports,Outdoor,['paper'],Used - Like New,72.53149731611556,True,,53.26172155161569,6.0,5.290721797446922,False,False,False,False,False,False,paper,16.54
+Sports,Outdoor,"['wool', 'leather']",For Parts or Not Working,89.06892899342945,True,43.18759997597048,,10.0,7.789119546051879,True,True,False,True,False,False,"wool, leather",51.7
+Fashion,Clothing,"['fabric', 'cork', 'coir', 'hemp', 'linen']",For Parts or Not Working,51.36273322999719,True,28.519535831999306,62.02671426017772,,8.363302945943026,True,False,False,False,False,False,"fabric, cork, coir, hemp, linen",34.5
+Toys,Pet Toys,"['fabric', 'rubber', 'hemp']",Used - Fair,17.48616228241875,True,,,20.0,,False,False,True,False,True,True,"fabric, rubber, hemp",21.75
+Fashion,Shoes,['ceramic'],Used - Like New,80.06377408724437,False,46.26512352483541,29.96803098489304,,,True,False,False,True,True,False,ceramic,10.0
+Sports,Fitness,"['metal', 'linen', 'cotton', 'sisal']",For Parts or Not Working,95.06275439856543,True,,38.51323476488031,19.0,,True,True,False,True,False,True,"metal, linen, cotton, sisal",59.51
+Pet Supplies,Pet Food,"['stone', 'leather', 'rubber', 'coir']",For Parts or Not Working,60.49026600552951,True,10.994727555335798,87.4815041100753,,4.518141027779072,True,True,False,False,False,True,"stone, leather, rubber, coir",28.57
+Pet Supplies,Pet Toys,"['fabric', 'cork', 'wool', 'rubber', 'coir']",New,,True,,,16.0,3.533141857583584,False,True,False,True,False,True,"fabric, cork, wool, rubber, coir",16.53
+Automotive,Tools,"['plastic', 'wool']",Used - Fair,13.114919458650698,False,,,6.0,,True,False,True,True,True,False,"plastic, wool",18.31
